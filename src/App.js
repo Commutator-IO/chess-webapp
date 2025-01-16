@@ -8,7 +8,7 @@ const App = () => {
   const [bestMove, setBestMove] = useState("");
 
   useEffect(() => {
-    const stockfishWorker = new Worker("/js/stockfish-16.1-lite-single.js");
+    const stockfishWorker = new Worker(`${process.env.PUBLIC_URL}/js/stockfish-16.1-lite-single.js`);
     setStockfish(stockfishWorker);
 
     stockfishWorker.onmessage = (event) => {

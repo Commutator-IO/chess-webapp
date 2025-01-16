@@ -4,6 +4,8 @@ This web application based on  [`react`](https://www.npmjs.com/package/react), [
 
 I followed HollowLeaf tutorial on Lichess blog:
 - [Part I](https://lichess.org/@/HollowLeaf/blog/chess-web-programming-part-one-getting-started/8ZKpwJU8)
+- [Part II](https://lichess.org/@/HollowLeaf/blog/chess-web-programming-part-two-stockfish/PdeOTODf)
+- [Part III](https://lichess.org/@/HollowLeaf/blog/chess-web-programming-part-three-deploying-your-application/J3GdsKZP)
 
 ## Available Scripts
 
